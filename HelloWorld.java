@@ -1,4 +1,4 @@
-package com.scalar.day1;
+//package com.scalar.day1;
 
 public class HelloWorld {
     HelloWorld() {
